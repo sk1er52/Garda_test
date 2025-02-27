@@ -1,0 +1,10 @@
+^D:\PROJECTS\REPOS\GARDA_TEST\FIRSTTASK\BUILD\CMAKEFILES\545AD703C088E839266E70DADE22862C\GENERATE.STAMP.RULE
+setlocal
+D:\Tools\CMake\bin\cmake.exe -SD:/Projects/repos/Garda_test/firstTask -BD:/Projects/repos/Garda_test/firstTask/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Projects/repos/Garda_test/firstTask/build/Garda_test.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

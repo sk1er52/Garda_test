@@ -1,0 +1,4 @@
+D:/Projects/repos/Garda_test/firstTask/build/CMakeFiles/program_test.dir
+D:/Projects/repos/Garda_test/firstTask/build/CMakeFiles/RUN_TESTS.dir
+D:/Projects/repos/Garda_test/firstTask/build/CMakeFiles/ALL_BUILD.dir
+D:/Projects/repos/Garda_test/firstTask/build/CMakeFiles/ZERO_CHECK.dir
